@@ -1,7 +1,5 @@
 # Cervical tSCS EMG Artifact Rejection Pipeline
 
-![Pipeline Results](Pipeline_Results.jpg)
-
 ## Overview
 This repository provides a MATLAB-based signal processing pipeline designed to extract physiological electromyography (EMG) signals during spinal cord stimulation (SCS). 
 
