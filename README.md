@@ -31,7 +31,6 @@ This repository contains two distinct pipeline architectures for artifact reject
 * `Stim_artifact_removal_pipeline_Manual_fixed_threshold.m`: A semi-automated pipeline for manual peak detection.
 * `find_notch_peaks_for_stim_artifact.m`: Helper function for the manual pipeline to interactively select notch targets.
 * `make_pretty.m`: Helper function for publication-ready plot formatting.
-* `data_extractor.m`: Utility script for handling raw data arrays.
 
 ## Installation & Requirements
 * **MATLAB**: R2021a or newer is recommended.
